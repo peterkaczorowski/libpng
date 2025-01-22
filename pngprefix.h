@@ -228,7 +228,6 @@
 #define png_image_set_PLTE wx_png_image_set_PLTE
 #define png_image_size wx_png_image_size
 #define png_image_skip_unused_chunks wx_png_image_skip_unused_chunks
-#define png_image_skip_unused_chunks.chunks_to_process wx_png_image_skip_unused_chunks.chunks_to_process
 #define png_image_write_init wx_png_image_write_init
 #define png_image_write_main wx_png_image_write_main
 #define png_image_write_memory wx_png_image_write_memory
