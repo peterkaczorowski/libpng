@@ -257,6 +257,7 @@
 #define png_read_filter_row_sub wx_png_read_filter_row_sub
 #define png_read_filter_row_sub3_sse2 wx_png_read_filter_row_sub3_sse2
 #define png_read_filter_row_sub4_sse2 wx_png_read_filter_row_sub4_sse2
+#define png_read_filter_row_up wx_png_read_filter_row_up
 #define png_rtran_ok wx_png_rtran_ok
 #define png_sRGB_checks wx_png_sRGB_checks
 #define png_safe_add wx_png_safe_add
