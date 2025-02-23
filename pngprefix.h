@@ -332,3 +332,16 @@
 #define png_handle_fdAT wx_png_handle_fdAT
 #define png_read_reset wx_png_read_reset
 #define png_progressive_read_reset wx_png_progressive_read_reset
+#define png_fixed_ITU wx_png_fixed_ITU
+#define png_get_cLLI wx_png_get_cLLI
+#define png_get_cLLI_fixed wx_png_get_cLLI_fixed
+#define png_get_mDCV wx_png_get_mDCV
+#define png_get_mDCV_fixed wx_png_get_mDCV_fixed
+#define png_handle_cLLI wx_png_handle_cLLI
+#define png_handle_mDCV wx_png_handle_mDCV
+#define png_set_cLLI wx_png_set_cLLI
+#define png_set_cLLI_fixed wx_png_set_cLLI_fixed
+#define png_set_mDCV wx_png_set_mDCV
+#define png_set_mDCV_fixed wx_png_set_mDCV_fixed
+#define png_write_cLLI_fixed wx_png_write_cLLI_fixed
+#define png_write_mDCV_fixed wx_png_write_mDCV_fixed
